@@ -75,8 +75,8 @@ python manage.py runserver
 ```
 
 Open your browser and navigate to:
-* **API Root:** [http://127.0.0](http://127.0.0)
-* **Admin Dashboard:** [http://127.0.0admin/](http://127.0.0admin/)
+* **API Root:** [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
+* **Admin Dashboard:** [http://127.0.0.1:8000/admin/](http://127.0.0.1:8000/admin/)
 
 ---
 
